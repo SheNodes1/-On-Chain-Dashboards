@@ -23,9 +23,12 @@ Monitors wallet flows, exchange activity, and BTC movement to reveal whether ins
 
 ---
 
+
+
 ## 🐋 Ethereum Whale Watch
 
-Watch Ethereum’s largest wallets to see where smart money flows. Track balance changes, net inflows/outflows, and address clusters.
+Included in our all-in-one SheNodes Dune dashboard. This section tracks the largest ETH wallets, highlighting whale activity, balance shifts, and net inflow/outflow behavior.
 
-🔗 [View Dashboard](https://dune.com/shenodes1/ethereum-whale-watch)  
-📷 *Preview image coming soon*
+🔗 [View Ethereum Whale Watch on Dune](https://dune.com/shenodes1/shenodes)  
+📷 ![Ethereum Whale Watch Preview](./eth-whale-watch-preview.png)
+
