@@ -1,12 +1,10 @@
 # 🟣 SheNodes Dune Dashboards
 
-These dashboards are built with [Dune Analytics](https://dune.com/shenodes1) to track on-chain activity across Ethereum, Bitcoin, and SUI. Data is live, visual, and always evolving.
-
---- 
+Explore our Dune Analytics dashboards for in-depth blockchain analysis.
 
 ## 💤 Ethereum: Sleeping Giants
 
-Tracks large ETH wallets that haven’t moved in months or years—potential long-term holders or whales in waiting.
+Tracks large ETH wallets that haven’t moved in months or years.
 
 🔗 [View Dashboard](https://dune.com/shenodes1/eth-sleeping-giants)  
 ![Image 4-30-25 at 7 30 PM](https://github.com/user-attachments/assets/bb527e36-c61c-42aa-8122-786a8639ade1)
@@ -24,7 +22,6 @@ Monitors wallet flows, exchange activity, and BTC movement to reveal whether ins
 ![Image 4-30-25 at 7 44 PM](https://github.com/user-attachments/assets/e0885047-3d83-4df7-8f30-5dcd5595dc29)
 
 ---
-
 
 
 ## 🐋 Ethereum Whale Watch
